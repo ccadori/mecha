@@ -1,0 +1,11 @@
+<gearfiles>
+<gearfile x = '0' y = '0' rotation = '0' type = '0' activeKey = 'None'/>
+<gearfile x = '-3' y = '0' rotation = '0' type = '1' activeKey = 'Space'/>
+<gearfile x = '3' y = '0' rotation = '180' type = '1' activeKey = 'Space'/>
+<gearfile x = '-4' y = '0' rotation = '0' type = '1' activeKey = 'Space'/>
+<gearfile x = '4' y = '0' rotation = '180' type = '1' activeKey = 'Space'/>
+<gearfile x = '-2' y = '0' rotation = '180' type = '1' activeKey = 'LeftControl'/>
+<gearfile x = '-1' y = '0' rotation = '180' type = '1' activeKey = 'LeftControl'/>
+<gearfile x = '1' y = '0' rotation = '0' type = '1' activeKey = 'LeftControl'/>
+<gearfile x = '2' y = '0' rotation = '0' type = '1' activeKey = 'LeftControl'/>
+</gearfiles>

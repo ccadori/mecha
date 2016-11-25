@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 47a4d35a065b63b4183b8790a6de7bb6
+timeCreated: 1451937940
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: g6970_0
+    21300002: g6970_1
+    21300004: g6970_2
+    21300006: g6970_3
+    21300008: g6970_4
+    21300010: g6970_5
+    21300012: g6970_6
+    21300014: g6970_7
+    21300016: g6970_8
+    21300018: g6970_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: g6970_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -33, y: 36}
+        - {x: -36, y: 33}
+        - {x: -36, y: -33}
+        - {x: -32, y: -36}
+        - {x: 33, y: -36}
+        - {x: 36, y: -34}
+        - {x: 36, y: 33}
+        - {x: 33, y: 36}
+    - name: g6970_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -40, y: 40.5}
+        - {x: -40, y: -40.5}
+        - {x: 40, y: -40.5}
+        - {x: 40, y: 40.5}
+    - name: g6970_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 162
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -37, y: 37}
+        - {x: -37, y: -37}
+        - {x: 37, y: -37}
+        - {x: 37, y: 37}
+    - name: g6970_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -36, y: 36}
+        - {x: -36, y: -36}
+        - {x: 36, y: -36}
+        - {x: 36, y: 36}
+    - name: g6970_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 163
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -35.5, y: 36}
+        - {x: -35.5, y: -36}
+        - {x: 35.5, y: -36}
+        - {x: 35.5, y: 36}
+    - name: g6970_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -40, y: 40.5}
+        - {x: -40, y: -40.5}
+        - {x: 40, y: -40.5}
+        - {x: 40, y: 40.5}
+    - name: g6970_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -37, y: 37}
+        - {x: -37, y: -37}
+        - {x: 37, y: -37}
+        - {x: 37, y: 37}
+    - name: g6970_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 81
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -36, y: 36}
+        - {x: -36, y: -36}
+        - {x: 36, y: -36}
+        - {x: 36, y: 36}
+    - name: g6970_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 81
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -35.5, y: 36}
+        - {x: -35.5, y: -36}
+        - {x: 35.5, y: -36}
+        - {x: 35.5, y: 36}
+    - name: g6970_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -37, y: 37}
+        - {x: -37, y: -37}
+        - {x: 37, y: -37}
+        - {x: 37, y: 37}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
